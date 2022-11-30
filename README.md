@@ -55,7 +55,7 @@ Deploying a Azure chat bot which will be very smart enough to provide the proper
 - Azure Bot Services [Deployed in Contact Us Page]
 - Static Web Apps [Deployment Id:d64f4261-7034-44c1-8485-4703ba7173a2]
 
-**Project Demo Link** : https://white-sky-0637fa900.2.azurestaticapps.net[Deployed In Azure]
+**Project Demo Link** : https://white-sky-0637fa900.2.azurestaticapps.net   [Deployed In Azure]
 
 **Git Hub Deployed Link**: https://madduramya.github.io/game_blog/contact.html
 
