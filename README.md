@@ -61,6 +61,6 @@ Deploying a Azure chat bot which will be very smart enough to provide the proper
 
 **GitHub Repository link**:  https://github.com/madduramya/game_blog.git
 
- ##NOTE:-    Azure Bot Service is Deployed in Contact Us Page
+ ##NOTE:-    Azure Bot Service is Deployed in Contact Us Page.
  
 
